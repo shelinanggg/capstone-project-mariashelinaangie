@@ -4,7 +4,7 @@
 Project ini adalah website *Daily Planner* interaktif berbasis **Jupyter Notebook** menggunakan **ipywidgets**. Website ini memungkinkan pengguna untuk membuat, menandai selesai, dan menghapus tugas harian mereka dengan antarmuka yang **warna-warni, intuitif, dan mudah digunakan**. Setiap tugas juga dapat diatur tanggal, waktu, dan prioritasnya, sehingga membantu pengguna tetap terorganisir.
 
 ## Teknologi yang Digunakan
-- Python
+- Python 3
 - Jupyter Notebook / Google Colab
 - [ipywidgets](https://ipywidgets.readthedocs.io/) untuk antarmuka interaktif
 - Modul `datetime` untuk manajemen tanggal dan waktu

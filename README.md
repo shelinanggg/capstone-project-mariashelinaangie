@@ -1,7 +1,7 @@
 # My Daily Planner (Jupyter Notebook)
 
 ## Deskripsi
-Project ini adalah aplikasi *Daily Planner* interaktif berbasis **Jupyter Notebook** menggunakan **ipywidgets**. Aplikasi ini memungkinkan pengguna untuk membuat, menandai selesai, dan menghapus tugas harian mereka dengan antarmuka yang **warna-warni, intuitif, dan mudah digunakan**. Setiap tugas juga dapat diatur tanggal, waktu, dan prioritasnya, sehingga membantu pengguna tetap terorganisir.
+Project ini adalah website *Daily Planner* interaktif berbasis **Jupyter Notebook** menggunakan **ipywidgets**. Website ini memungkinkan pengguna untuk membuat, menandai selesai, dan menghapus tugas harian mereka dengan antarmuka yang **warna-warni, intuitif, dan mudah digunakan**. Setiap tugas juga dapat diatur tanggal, waktu, dan prioritasnya, sehingga membantu pengguna tetap terorganisir.
 
 ## Teknologi yang Digunakan
 - Python
@@ -47,7 +47,7 @@ Project ini adalah aplikasi *Daily Planner* interaktif berbasis **Jupyter Notebo
 pip install git+https://github.com/ibm-granite-community/utils "langchain_community<0.3.0" replicate ipywidgets
 ```
 
-### 5. Jalankan seluruh sel untuk melihat aplikasi planner interaktif.
+### 5. Jalankan seluruh sel untuk melihat website planner interaktif.
 
 ## Dukungan AI
 Project ini menggunakan IBM Granite AI untuk menghasilkan kode Python interaktif secara otomatis. AI membantu:
